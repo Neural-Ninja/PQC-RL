@@ -1,4 +1,4 @@
-# Quantum Reinforcement Learning with PQC Policies
+# Parameterized Quantum Policies for Reinforcement Learning
 
 This project implements Quantum Reinforcement Learning using Parameterized Quantum Circuits (PQCs) as policies. It includes both RAW-PQC and SOFTMAX-PQC implementations and compares their performance on various Gymnasium environments.
 
@@ -64,4 +64,4 @@ The training results for each environment will be saved as PNG files:
 
 ## References
 
-This implementation is based on the quantum reinforcement learning architecture described in recent literature, using parameterized quantum circuits for policy representation in reinforcement learning tasks. 
+This implementation is based on the quantum reinforcement learning architecture described in recent literature (NeurIPS 2021, Parameterized Quantum Policies for Reinforcement Learning), using parameterized quantum circuits for policy representation in reinforcement learning tasks.
